@@ -28,5 +28,5 @@ I specialize in transforming complex data into actionable insights using Python 
 
 ### 📫 Contact Me
 *   **Telegram:** [@AndrTrue_orel](https://t.me/AndrTrue_orel)
-*   **Email:** andr57tru@mail.ru
+*   **Email:** andr57tru@gmail.com
 
