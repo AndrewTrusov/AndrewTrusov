@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @AndrewTrusov
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning machine learning.
-- 📫 How to reach me: messages on this site.
+### Hi there, I'm Andrey Trusov 👋
+**Data Analyst & ML Engineer**
 
-<!---
-AndrewTrusov/AndrewTrusov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently completing my Specialist degree at **MSU Faculty of Physics** (5th year).  
+I specialize in transforming complex data into actionable insights using Python and Machine Learning.
+
+---
+
+### 🛠 Tech Stack
+*   **Languages:** Python (Advanced), SQL (PostgreSQL, MySQL).
+*   **Data Science:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow.
+*   **Visualization:** Matplotlib, Seaborn, Figma.
+*   **Tools:** Git, Excel/Google Sheets, A/B Testing, Stat Analysis.
+
+---
+
+### 💼 Experience & Achievements
+*   **Laboratory of Ultra-High Energy Cosmic Rays (MSU) 2 years**: 
+*   **Hackathons:**
+    *   🚀 **Finalist** at Up Great "Expedition Data Science".
+    *   Participant at VK Case Champ (Data Strategy track).
+
+
+### 🏆 Competitions
+*   **Top 200** in Yandex ML-Run.
+
+---
+
+### 📫 Contact Me
+*   **Telegram:** [@AndrTrue_orel](https://t.me/AndrTrue_orel)
+*   **Email:** andr57tru@mail.ru
+
