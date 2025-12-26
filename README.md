@@ -9,7 +9,7 @@ I specialize in transforming complex data into actionable insights using Python 
 ### 🛠 Tech Stack
 *   **Languages:** Python (Advanced), SQL (PostgreSQL, MySQL).
 *   **Data Science:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow.
-*   **Visualization:** Matplotlib, Seaborn, Figma.
+*   **Visualization:** Matplotlib, Seaborn, Plotly, Figma, PowerBI.
 *   **Tools:** Git, Excel/Google Sheets, A/B Testing, Stat Analysis.
 
 ---
