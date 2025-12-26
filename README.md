@@ -17,7 +17,7 @@ I specialize in transforming complex data into actionable insights using Python 
 ### 💼 Experience & Achievements
 *   **Laboratory of Ultra-High Energy Cosmic Rays (MSU) 2 years**: 
 *   **Hackathons:**
-    *   🚀 **Finalist** at Up Great "Expedition Data Science".
+    *   **Finalist** at Up Great "Expedition Data Science".
     *   Participant at VK Case Champ (Data Strategy track).
 
 
