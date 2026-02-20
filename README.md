@@ -22,7 +22,7 @@ I specialize in transforming complex data into actionable insights using Python 
 
 
 ### Competitions
-*   **Top 200** in Yandex ML-Run.
+*   **Top 150** in Yandex ML-Run.
 
 ---
 
